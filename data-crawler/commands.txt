@@ -1,0 +1,5 @@
+******************************************
+        To run scrapy crawler
+******************************************
+  
+scrapy runspider phishing_websites_crawler.py

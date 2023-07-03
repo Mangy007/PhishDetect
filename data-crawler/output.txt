@@ -1,0 +1,23 @@
+**********************************   aaya    ***************************************
+websites_list:  1
+1    ---->    phish_detail.php?phish_id=8206926
+2    ---->    phish_detail.php?phish_id=8206925
+3    ---->    phish_detail.php?phish_id=8206923
+4    ---->    phish_detail.php?phish_id=8206922
+5    ---->    phish_detail.php?phish_id=8206921
+6    ---->    phish_detail.php?phish_id=8206920
+7    ---->    phish_detail.php?phish_id=8206919
+8    ---->    phish_detail.php?phish_id=8206917
+9    ---->    phish_detail.php?phish_id=8206915
+10    ---->    phish_detail.php?phish_id=8206914
+11    ---->    phish_detail.php?phish_id=8206913
+12    ---->    phish_detail.php?phish_id=8206911
+13    ---->    phish_detail.php?phish_id=8206910
+14    ---->    phish_detail.php?phish_id=8206908
+15    ---->    phish_detail.php?phish_id=8206906
+16    ---->    phish_detail.php?phish_id=8206905
+17    ---->    phish_detail.php?phish_id=8206896
+18    ---->    phish_detail.php?phish_id=8206876
+19    ---->    phish_detail.php?phish_id=8206875
+20    ---->    phish_detail.php?phish_id=8206871
+0    ---->    ?page=1&active=y&verified=u
