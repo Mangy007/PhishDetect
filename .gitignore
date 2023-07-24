@@ -1,2 +1,3 @@
 data-crawler/__pycache__/*
 .vscode/*
+.conda/*
