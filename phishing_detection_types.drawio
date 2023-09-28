@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2023-09-09T21:35:00.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ereUqitM26ds92R9ZqDO" version="21.7.2" type="device">
+  <diagram name="Page-1" id="DtW9dGnuzczb5X8nfKc1">
+    <mxGraphModel dx="1290" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W_Ywc_AMQoEcLQbsiUDs-14" value="Phishing Prevention Techniques" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="W_Ywc_AMQoEcLQbsiUDs-15" value="Phishing Detection" style="whiteSpace=wrap;html=1;" vertex="1" parent="W_Ywc_AMQoEcLQbsiUDs-14">
+          <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W_Ywc_AMQoEcLQbsiUDs-16" value="Awareness" style="whiteSpace=wrap;html=1;" vertex="1" parent="W_Ywc_AMQoEcLQbsiUDs-14">
+          <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W_Ywc_AMQoEcLQbsiUDs-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="W_Ywc_AMQoEcLQbsiUDs-14" source="W_Ywc_AMQoEcLQbsiUDs-15" target="W_Ywc_AMQoEcLQbsiUDs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W_Ywc_AMQoEcLQbsiUDs-18" value="Software" style="whiteSpace=wrap;html=1;" vertex="1" parent="W_Ywc_AMQoEcLQbsiUDs-14">
+          <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W_Ywc_AMQoEcLQbsiUDs-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="W_Ywc_AMQoEcLQbsiUDs-14" source="W_Ywc_AMQoEcLQbsiUDs-15" target="W_Ywc_AMQoEcLQbsiUDs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
